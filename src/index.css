@@ -4,7 +4,10 @@ body {
 		"Droid Sans", "Helvetica Neue", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	/* background-image: url("https://image.freepik.com/free-vector/illustration-astronaut-cosmonaut-paying-skateboard-sport-space-with-astronaut-suit_27575-3.jpg"); */
+	background-image: url("https://image.freepik.com/free-vector/abstract-yellow-comic-zoom_1409-923.jpg");
+	/* background-image: url("https://image.freepik.com/free-vector/comic-dynamic-green-background-with-radial-beams-dotted-humor-effects_225004-671.jpg"); */
+
+	background-color: #b4f2e1;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -29,8 +32,10 @@ code {
 	width: min-content;
 	padding: 20px 10px 5px 10px;
 	border-radius: 20px;
-	/* background-image: url("https://image.freepik.com/free-vector/dark-background-gradient-geometric-models_23-2148430535.jpg"); */
-	background-image: url('https://image.freepik.com/free-vector/monstera-leaves-copy-space-background-video-communication_23-2148589108.jpg');
+	/* background-image: url("https://images.unsplash.com/photo-1504576358853-3dc5837a8ffe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"); */
+	background-image: url("https://images.unsplash.com/photo-1537420327992-d6e192287183?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+	/* background-image: url("https://images.unsplash.com/photo-1573050311384-d59fa2bafc0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=672&q=80"); */
+	background-color: grey;
 	box-shadow: 0px 0px 12px 2px black;
 	background-size: cover;
 	position: relative;
@@ -48,8 +53,7 @@ code {
 	width: 350px;
 	height: 350px;
 	margin: 0px auto;
-	/* background-image: url("https://image.freepik.com/free-vector/dark-background-gradient-geometric-models_23-2148430535.jpg"); */
-	background-color: rgb(174, 0, 255);
+	background-image: url("https://i.pinimg.com/originals/ec/7f/ba/ec7fba7a086340124d572421fbfbd931.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -70,6 +74,7 @@ code {
 	justify-content: center;
 	align-items: center;
 	background-color: rgb(221, 221, 221);
+	opacity: .7;
 	transition: transform ease-in-out 0.2s;
 }
 .center-circle {
